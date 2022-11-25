@@ -10,7 +10,7 @@
 
 ## 下载链接
 
-[EditWeb](https://github.com/TianCai250/EditWeb)
+[EditWeb](https://github.com/TianCai250/WebEdit)
 
 ## 安装方式
 
