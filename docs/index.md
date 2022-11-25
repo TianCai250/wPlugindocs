@@ -13,7 +13,7 @@ hero:
       link: /projects/chromePlugins/GotoLink
     - theme: alt
       text: Github地址
-      link: TianCai250
+      link: https://github.com/TianCai250
 
 features:
   - icon: ⚡️
