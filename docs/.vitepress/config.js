@@ -1,6 +1,7 @@
 export default {
   title: "w-plugin", //站点标题
   description: "一个插件项目库", //mate标签description，多用于搜索引擎抓取摘要
+  base: '/wpluginpage',
   themeConfig: {
     siteTitle: "WPlugin",
     logo: "/logo.png",
