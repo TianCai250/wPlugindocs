@@ -7,7 +7,7 @@ export default {
     logo: "/logo.png",
     // nav菜单
     nav: [
-      { text: "插件", link: "/projects/chromePlugins/GotoLink" },
+      { text: "插件工具", link: "/projects/chromePlugins/GotoLink" },
       { text: "github", link: "https://github.com/TianCai250" },
     //   {
     //     text: "Drop Menu",
@@ -70,6 +70,17 @@ export default {
             },
           ],
         },
+        {
+            text: "js工具",
+            collapsible: true,
+            collapsed: false,
+            items: [
+              {
+                text: "imageshandler",
+                link: "/projects/jsTools/imageshandler",
+              },
+            ],
+          },
       ],
     },
   },

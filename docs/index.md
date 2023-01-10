@@ -3,7 +3,7 @@ layout: home
 
 hero:
   name: W-Plugin
-  text:  实用的插件库
+  text:  实用的插件工具库
   image:
     src: /logo.png
     alt: TianCai250
